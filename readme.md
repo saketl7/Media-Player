@@ -1,3 +1,6 @@
 # Media Player
 
-[!Preview](demo/demo.gif)
+## Preview
+
+![](demo/demo.gif)
+
